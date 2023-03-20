@@ -7,4 +7,3 @@
 
 Update every 30 Sec. 
 
-This site was built using GPS requistes from [ GPS page ](/back.html).
