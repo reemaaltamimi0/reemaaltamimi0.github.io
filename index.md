@@ -5,6 +5,6 @@
 | ----      | ----       | ---- | ---- | ---- | ---- |
 | [101](/about.html) | 1999 RKR     | SA - 🇸🇦| 18.244320, 42.446202 | 08:22 AM | Scanned | 
 
-Update every 30 Sec.  [Made by reema ❤️]
+Update every 30 Sec. 
 
 This site was built using GPS requistes from [ GPS page ](/back.html).
